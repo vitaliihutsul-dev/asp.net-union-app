@@ -21,6 +21,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "web-mvc-union", "web-mvc-un
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "53972"
+		SlnRelativePath = "web-mvc-union\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
